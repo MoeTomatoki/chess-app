@@ -1,0 +1,6 @@
+export { Board } from "./Board"
+export { Cell } from "./Cell"
+export { Colors } from "./Colors"
+export { GameBoard } from "./GameBoard"
+export { GameCell } from "./GameCell"
+export { Player } from "./Player"
